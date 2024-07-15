@@ -1,7 +1,8 @@
 # Lec-2 Types of Operating System
 
-## Single Process OS
+1. Single Process OS
 
-### Execute job one by one (maximum utilization of CPU is not done)
-
-### Process starvation
+- eg: MS DOS
+- Execute job one by one cannot multitask (maximum utilization of CPU is not done)
+- Process starvation
+- no high priority
